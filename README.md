@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PureQueen
-- 👀 I’m interested in ... becoming a Software Developer.
+- 👀 I’m interested in ... becoming a Web Developer.
 - 🌱 I’m currently learning ... javaScript.
-- 💞️ I’m looking to collaborate on ... mobile apps.
+- 💞️ I’m looking to collaborate on ... mobile apps and websites.
 - 📫 How to reach me ... via direct message.
 
 <!---
